@@ -22,8 +22,8 @@
     height: 389px;
     margin:  0px;
     margin-top: 67px;
-    margin-left: 49px;
     margin-right: 50px;
+    margin-left: 49px;
     background: #0041A2;  
 }
 
@@ -36,17 +36,17 @@
 
     .one-gray {
         margin-top: 40px;
+        margin-right: 38px;
         margin-left: 37px;
         margin-bottom: 56px;
-        margin-right: 38px;
         height: 277px;  
     }
 
     .two-blue {  
         margin-top: 40px;
+        margin-right: 38px;
         margin-left: 37px;
         margin-bottom: 56px;
-        margin-right: 38px;
         height: 277px;
     }
     
